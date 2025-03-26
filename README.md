@@ -13,6 +13,6 @@ I have frontend web development experience with HTML/CSS, JavaScript, and Jquery
 
 📫 How to reach me: [ayumabiketi96@gmail.com]
 
-⚡ Fun fact: I loooove Call of Duty! 🎮🔥
+⚡ Fun fact: My aim in Call of Duty is almost as sharp as my coding skills (almost). 🎮🔥
 
 
