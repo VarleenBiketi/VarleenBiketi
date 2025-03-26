@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hello there, I’m Varleen
 
-<!--
-**VarleenBiketi/VarleenBiketi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ I program in C++, Java, C, Python, 
+(My C/C++ projects are currently private as they are part of my coursework, and I must adhere to academic integrity guidelines)
 
-Here are some ideas to get you started:
+I have frontend web development experience with HTML/CSS, JavaScript, and Jquery with backend experience in PHP, SQL and Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👀 I’m interested in Software Development, Artificial Intelligence, Assistive Technology, Cloud Computing, and Cybersecurity
+
+🌱 I’m currently enhancing my algorithmic problem-solving skills, exploring AI-powered assistive technology for accessibility, and deepening my knowledge in cloud computing
+
+💞️ I’m looking to collaborate on software development projects
+
+📫 How to reach me: [ayumabiketi96@gmail.com]
+
+⚡ Fun fact: I loooove Call of Duty! 🎮🔥
+
+
