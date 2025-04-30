@@ -1,7 +1,6 @@
 👋 Hello there, I’m Varleen
 
 🛠️ I program in C++, Java, C, Python, 
-(My C/C++ projects are currently private as they are part of my coursework, and I must adhere to academic integrity guidelines)
 
 I have frontend web development experience with HTML/CSS, JavaScript, and Jquery with backend experience in PHP, SQL and Node.js
 
