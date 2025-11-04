@@ -8,7 +8,7 @@ I work mainly with **TypeScript, React, React Native, C++, and Python**, and dep
 - Experimenting with **AI integrations** to make everyday systems smarter and faster  
 - Sharpening my **algorithmic problem-solving** and **system design** skills  
 
-👀 Interests: Software Engineering, AI Systems,Networks, Cloud Computing, and Scalable Backend Development  
+👀 Interests: Software Engineering, AI Systems, Networks, Cloud Computing, and Scalable Backend Development  
 
 🤝 Open to collaborating on projects that use AI to improve how people work, build, or communicate  
 
