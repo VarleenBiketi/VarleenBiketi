@@ -1,6 +1,6 @@
 👋 Hey, I’m Varleen  
 
-💻 I build things that make AI actually useful — from RAG chatbots to backend systems that connect large language models with real-world apps.  
+💻 I build things that make AI actually useful; from RAG chatbots to backend systems that connect large language models with real-world apps.  
 I work mainly with **TypeScript, React, React Native, C++, and Python**, and deploy on **Firebase** and **Google Cloud Platform (GCP)**.  
 
 🌱 Currently:  
