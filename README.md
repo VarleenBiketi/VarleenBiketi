@@ -1,17 +1,22 @@
-👋 Hello there, I’m Varleen
+👋 Hey, I’m Varleen  
 
-🛠️ I program in C++, Java, C, Python, 
+💻 I build things that make AI actually useful — from RAG chatbots to backend systems that connect large language models with real-world apps.  
+I work mainly with **TypeScript, React, React Native, C++, and Python**, and deploy on **Firebase** and **Google Cloud Platform (GCP)**.  
 
-I have frontend web development experience with HTML/CSS, JavaScript, and Jquery with backend experience in PHP, SQL and Node.js
+🌱 Currently:  
+- Building an **LLM proxy server** for flexible model routing and API management  
+- Experimenting with **AI integrations** to make everyday systems smarter and faster  
+- Sharpening my **algorithmic problem-solving** and **system design** skills  
 
-👀 I’m interested in Software Development, Artificial Intelligence, Assistive Technology, Cloud Computing, and Cybersecurity
+👀 Interests: Software Engineering, AI Systems,Networks, Cloud Computing, and Scalable Backend Development  
 
-🌱 I’m currently enhancing my algorithmic problem-solving skills, exploring AI-powered assistive technology for accessibility, and deepening my knowledge in cloud computing
+🤝 Open to collaborating on projects that use AI to improve how people work, build, or communicate  
 
-💞️ I’m looking to collaborate on software development projects
+📫 Reach me at: [ayumabiketi96@gmail.com]  
 
-📫 How to reach me: [ayumabiketi96@gmail.com]
+⚡ Fun fact: My aim in Call of Duty is still *almost* as sharp as my my coding skills. 🎮🔥
 
-⚡ Fun fact: My aim in Call of Duty is almost as sharp as my coding skills (almost). 🎮🔥
+
+
 
 
