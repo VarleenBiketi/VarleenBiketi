@@ -14,7 +14,7 @@ I work mainly with **TypeScript, React, React Native, C++, and Python**, and dep
 
 📫 Reach me at: [ayumabiketi96@gmail.com]  
 
-⚡ Fun fact: My aim in Call of Duty is still *almost* as sharp as my my coding skills. 🎮🔥
+⚡ Fun fact: My aim in Call of Duty is *almost* as sharp as my my coding skills. 🎮🔥
 
 
 
