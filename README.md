@@ -23,6 +23,3 @@ Open to backend engineering, systems work, or AI projects that help people build
 
 ## 📫 Contact
 **ayumabiketi96@gmail.com**
-
-## ⚡ Fun Fact
-My aim in Call of Duty is almost as sharp as my coding skills. 🎮🔥
